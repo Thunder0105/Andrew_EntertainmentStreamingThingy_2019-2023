@@ -25,3 +25,12 @@ World Health Organization (WHO) Coronavirus Dashboard: https://covid19.who.int/
 
 ## Dashboard
 ![Dashboard Overview](Dashboard-Visualizations/Dashboard_1.png) 
+
+Dashboard
+The dashboard is structured across five analytical sheets to offer a comprehensive view of the streaming ecosystem:
+
+1. Market Share & Volume Growth — Tracking paid subscribers and total revenue across Netflix, Disney+, and Crunchyroll from 2019 to 2023.
+2. Macro Trends vs. Subscriptions — Mapping subscriber growth curves directly against global COVID-19 case volumes to isolate pandemic correlation.
+3. Operational Footprint Analysis: Evaluating total employee growth trends to see how corporate scaling correlated with revenue expansion.
+4. Platform Monetization (ARPU/Efficiency): Monitoring revenue generation efficiency per subscriber across legacy, hybrid, and niche business models.
+5. Consolidation & Scale Milestones: Isolating inflection points, such as corporate acquisitions and major policy changes (e.g., password-sharing restrictions).
