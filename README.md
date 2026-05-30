@@ -37,7 +37,20 @@ The dashboard is structured across five analytical sheets to offer a comprehensi
 
 ## Key Findings
 - Q4 2020 was the Pandemic Peak: Driven by global winter lockdown waves, Netflix spiked to 203.7M subscribers, while the newly launched Disney+ exploded to 86.8M subscribers—a staggering 227% year-over-year increase for Disney as it captured stay-at-home families.
+  
 - Headcount Exploded via Market Consolidation: Niche platforms scaled aggressively through corporate integration. Crunchyroll’s headcount surged by over 46% in late 2021 (jumping from 750 to 1,100 employees) immediately following Sony’s $1.17B buyout, establishing a massive operational footprint to support its rapidly scaling base.
+  
 - Subscribers Acted as a Leading Indicator for Revenue: Subscriber acquisition consistently preceded monetization realization by 1–2 quarters. Platforms offered promotional introductory rates during early COVID waves, which matured into massive quarterly billings later in the fiscal cycle.
+  
 - The Post-Pandemic Correction of 2022: The return to physical normalcy, combined with a saturation shock, hit pure-play platforms hard. Netflix experienced an unprecedented contraction in early 2022, shedding subscribers and prompting a rapid pivot toward password-sharing crackdowns and ad-supported tiers to protect margins.
+  
 - Niche Platforms Displayed Superior Resilience: While mainstream giants battled high churn in 2022–2023, specialized platforms thrived. Crunchyroll maintained near-linear subscription growth post-pandemic, expanding from 5M paid subscribers in early 2021 to 13M by late 2023, proving that hyper-targeted community monetization can resist broader macroeconomic cooling.
+
+## Executive Summary
+Between 2019 and 2023, the global streaming sector underwent a full market cycle of hyper-expansion, saturation, and structural correction fueled by the COVID-19 pandemic. At the onset of the crisis in late 2019, Netflix held a mature baseline of 167.1M subscribers and $5.4B in quarterly revenue, while Disney+ was in its infancy with 26.5M subscribers. As strict global lockdowns took hold, digital consumption surged dramatically. By late 2020, as global COVID cases climbed to 48 million, Netflix rapidly scaled its revenue base to $6.6B, while Disney+ capitalized on staying-at-home populations to cross 86.8M users.
+
+This analysis goes beyond superficial user metrics to explore the operational and structural levers that defined the era. Using granular, timeline-mapped data across major streaming models, this project investigates five core relationships: how legacy entertainment models scaled compared to pure-play digital natives, how subscriber growth correlated with global pandemic waves, how operational headcounts expanded to support infrastructure demand, how monetization efficiency evolved over time, and how niche platforms insulated themselves from market volatility.
+
+Netflix was selected as the anchor subject due to its pure-play digital architecture, allowing a transparent look at user unit economics without the distortion of theme parks or box office assets. Industry-level contrast is established through Disney's hybrid enterprise model and Crunchyroll's hyper-focused anime ecosystem.
+
+Key findings indicate that while the pandemic provided an unprecedented subscriber lift, it triggered an aggressive corporate hiring boom that legacy platforms struggled to optimize as physical spaces reopened. Furthermore, the analysis highlights that the post-pandemic "subscriber cliff" of 2022 forced an industry-wide structural shift—shifting the strategic focus away from raw subscriber acquisition and toward average revenue per user (ARPU), ad-supported monetization tiers, and aggressive password-containment policies.
