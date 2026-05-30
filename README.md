@@ -34,3 +34,14 @@ The dashboard is structured across five analytical sheets to offer a comprehensi
 3. Operational Footprint Analysis: Evaluating total employee growth trends to see how corporate scaling correlated with revenue expansion.
 4. Platform Monetization (ARPU/Efficiency): Monitoring revenue generation efficiency per subscriber across legacy, hybrid, and niche business models.
 5. Consolidation & Scale Milestones: Isolating inflection points, such as corporate acquisitions and major policy changes (e.g., password-sharing restrictions).
+
+## Key Findings
+- Q4 2020 was the Pandemic Peak: Driven by global winter lockdown waves, Netflix spiked to 203.7M subscribers, while the newly launched Disney+ exploded to 86.8M subscribers—a staggering 227% year-over-year increase for Disney as it captured stay-at-home families.
+
+- Headcount Exploded via Market Consolidation: Niche platforms scaled aggressively through corporate integration. Crunchyroll’s headcount surged by over 46% in late 2021 (jumping from 750 to 1,100 employees) immediately following Sony’s $1.17B buyout, establishing a massive operational footprint to support its rapidly scaling base.
+
+- Subscribers Acted as a Leading Indicator for Revenue: Subscriber acquisition consistently preceded monetization realization by 1–2 quarters. Platforms offered promotional introductory rates during early COVID waves, which matured into massive quarterly billings later in the fiscal cycle.
+
+- The Post-Pandemic Correction of 2022: The return to physical normalcy, combined with a saturation shock, hit pure-play platforms hard. Netflix experienced an unprecedented contraction in early 2022, shedding subscribers and prompting a rapid pivot toward password-sharing crackdowns and ad-supported tiers to protect margins.
+
+Niche Platforms Displayed Superior Resilience: While mainstream giants battled high churn in 2022–2023, specialized platforms thrived. Crunchyroll maintained near-linear subscription growth post-pandemic, expanding from 5M paid subscribers in early 2021 to 13M by late 2023, proving that hyper-targeted community monetization can resist broader macroeconomic cooling.
