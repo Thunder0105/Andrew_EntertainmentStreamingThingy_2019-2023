@@ -20,6 +20,8 @@ Sony Group Corporation (Crunchyroll Acquisition & Metrics):
 Group Investor Relations Portal: https://www.sony.com/en/SonyInfo/IR/ 
 Sony Pictures Entertainment Press Room: https://www.sonypictures.com/corp/press_releases 
 
+Global COVID-19 Context Baseline:
+World Health Organization (WHO) Coronavirus Dashboard: https://covid19.who.int/ 
 
-
+## Dashboard
 ![Dashboard Overview](Dashboard-Visualizations/Dashboard_1.png) 
